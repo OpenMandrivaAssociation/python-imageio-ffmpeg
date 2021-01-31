@@ -1,7 +1,7 @@
 %global pypi_name imageio-ffmpeg
 
 Name:           python-%{pypi_name}
-Version:        0.4.2
+Version:        0.4.3
 Release:        1
 Group:          Development/Python
 Summary:        FFMPEG wrapper for Python
