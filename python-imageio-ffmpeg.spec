@@ -2,7 +2,7 @@
 
 Name:           python-%{pypi_name}
 Version:        0.4.3
-Release:        3
+Release:        4
 Group:          Development/Python
 Summary:        FFMPEG wrapper for Python
 License:        BSD
