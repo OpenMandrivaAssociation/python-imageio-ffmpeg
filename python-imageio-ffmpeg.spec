@@ -1,4 +1,4 @@
-%global pypi_name imageio-ffmpeg
+%global pypi_name imageio_ffmpeg
 
 Name:           python-%{pypi_name}
 Version:        0.6.0
